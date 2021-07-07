@@ -1,0 +1,44 @@
+#header-nav {
+	background-color:grey;
+	border:3px solid black;
+}
+.navbar-brand  h2 {
+	font-weight: bold;
+	margin-left:0;
+  color: black;
+  font-size:1.5em;
+  margin-top: 10px;
+
+}
+
+h1 {
+	text-align:center;
+}
+.chick  {
+	background-color: grey;
+	color:black;
+	margin:30px;
+	padding:5px;
+	height:100%;
+	margin-right:25px;
+}
+h3{
+	
+	text-align: center;
+	margin-top:0;
+	font-weight: bold;
+}
+.text-center {
+	font-weight: bold;
+	font-size: 30px;
+}
+#my-id {
+	background-color: black;
+}
+#my-id a  {
+	text-align: center;
+	color:#e7e7e7;
+}
+p {
+	font-size:25px;
+}
